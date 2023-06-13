@@ -1,0 +1,27 @@
+
+
+checkout-form {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 16px;
+  }
+  
+  .card-element-container {
+    margin-bottom: 16px;
+  }
+  
+  .pay-button {
+    background-color: #4285f4;
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+  @media (min-width: 600px) {
+    .checkout-form {
+      padding: 64px;
+    }
+  }
